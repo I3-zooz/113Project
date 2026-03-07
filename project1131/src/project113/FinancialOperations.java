@@ -4,7 +4,7 @@ public  interface  FinancialOperations {
 
 	
 	public double calculateAmount() ;
-		 
+		  
 	
 	
 	public boolean processPayment() ;

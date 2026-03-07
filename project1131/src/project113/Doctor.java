@@ -10,7 +10,7 @@ public Doctor(String name, int id, int phone, double salary, int staffid,String 
 		this.specialty=specialty;
  
 	}
-
+ 
 @Override
 public double calculateAmount() {
 	return super.calculateAmount()+5000;

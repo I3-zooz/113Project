@@ -13,7 +13,7 @@ public class Staff extends Person implements FinancialOperations{
 		super(name, id, phone);
 		this.salary = salary;
 		this.staffId = staffid;
-	} 
+	}  
 
 
 
