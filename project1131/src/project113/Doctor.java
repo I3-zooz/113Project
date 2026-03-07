@@ -8,7 +8,7 @@ public class Doctor extends Staff {
 public Doctor(String name, int id, int phone, double salary, int staffid,String specialty) {
 		super(name, id, phone, salary, staffid);
 		this.specialty=specialty;
-
+ 
 	}
 
 @Override
